@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204703973818",
+    "project_id": "signin-1d9b7",
+    "storage_bucket": "signin-1d9b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204703973818:android:ea28f78541c3c00f2a1d83",
+        "android_client_info": {
+          "package_name": "com.sylviakang.demo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204703973818-qel48d7qo29j0u78pkbjfuo088jjskll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA65-YrnVszNJviqAyLMBLmyjBeU2-DKKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204703973818-qel48d7qo29j0u78pkbjfuo088jjskll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
